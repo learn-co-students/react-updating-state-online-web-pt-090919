@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 
 ReactDOM.render(
   <div>
-    Mount Components Here
+    Mount Components Everywhere
   </div>,
   document.getElementById('root')
 );
