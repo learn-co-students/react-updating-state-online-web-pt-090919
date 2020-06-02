@@ -20,6 +20,7 @@
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.22.0",
     "babel-preset-stage-0": "^6.22.0",
+    "mocha-multi": "^1.1.3",
     "react": "^16.4.1",
     "react-dom": "^16.4.1"
   },
@@ -30,5 +31,17 @@
     "dev:hot": "webpack-dev-server --hot --inline --progress --colors --watch --display-error-details --display-cached --content-base ./",
     "test:watch": "npm run test -- --watch",
     "eject": "react-scripts eject"
-  }
+  },
+  "description": "## Overview",
+  "main": "webpack.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yousifhj/react-updating-state-online-web-pt-090919.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yousifhj/react-updating-state-online-web-pt-090919/issues"
+  },
+  "homepage": "https://github.com/yousifhj/react-updating-state-online-web-pt-090919#readme"
 }
